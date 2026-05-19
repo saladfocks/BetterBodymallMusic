@@ -1,0 +1,12 @@
+{
+    "name": "BetterBodymallMusic",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces the bodymall music with a more fitting song called "the last story of the myth" by fox capture plan",
+    "dependencies": [
+        "bonelib-BoneLib-3.2.1",
+        "TrevTV-AudioReplacer-1.7.0",
+        "TrevTV-AudioImportLib-1.3.0"
+    ]
+}
+
